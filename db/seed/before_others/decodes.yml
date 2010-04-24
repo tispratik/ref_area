@@ -4,7 +4,7 @@ i = 0
 
 Project_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: Project_Status
+ name: BS_Project_Status
  constant_value: BS_PROJ_STATUS_AC 
  display_value: Active
  sort_order: 1
@@ -12,7 +12,7 @@ Project_Status_<%= i=i+1 %>:
  
 Project_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: Project_Status
+ name: BS_Project_Status
  constant_value: BS_PROJ_STATUS_CL
  display_value: Closed
  sort_order: 2
@@ -20,7 +20,7 @@ Project_Status_<%= i=i+1 %>:
  
 Project_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: Project_Status
+ name: BS_Project_Status
  constant_value: BS_PROJ_STATUS_SU 
  display_value: Suspended
  sort_order: 3
@@ -28,7 +28,7 @@ Project_Status_<%= i=i+1 %>:
  
 Project_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: Project_Status
+ name: BS_Project_Status
  constant_value: BS_PROJ_STATUS_IN
  display_value: Inactive
  sort_order: 4
@@ -36,7 +36,7 @@ Project_Status_<%= i=i+1 %>:
  
 Project_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: Project_Status
+ name: BS_Project_Status
  constant_value: BS_PROJ_STATUS_CA
  display_value: Canceled
  sort_order: 5
@@ -44,7 +44,7 @@ Project_Status_<%= i=i+1 %>:
  
 Task_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: Task_Status
+ name: BS_Task_Status
  constant_value: BS_TASK_STATUS_OP
  display_value: Open
  sort_order: 1
@@ -52,7 +52,7 @@ Task_Status_<%= i=i+1 %>:
 
 Task_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: Task_Status
+ name: BS_Task_Status
  constant_value: BS_TASK_STATUS_AS
  display_value: Assigned
  sort_order: 2
@@ -60,7 +60,7 @@ Task_Status_<%= i=i+1 %>:
 
 Task_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: Task_Status
+ name: BS_Task_Status
  constant_value: BS_TASK_STATUS_CO
  display_value: Closed
  sort_order: 3
@@ -68,7 +68,7 @@ Task_Status_<%= i=i+1 %>:
 
 Task_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: Task_Status
+ name: BS_Task_Status
  constant_value: BS_TASK_STATUS_CA
  display_value: Cancelled
  sort_order: 4
@@ -76,7 +76,7 @@ Task_Status_<%= i=i+1 %>:
   
 Task_Type_<%= i=i+1 %>:
  id: <%= i %>
- name: Task_Type
+ name: BS_Task_Type
  constant_value: BS_TASK_TYPE_AI
  display_value: Action Item
  sort_order: 1
@@ -84,7 +84,7 @@ Task_Type_<%= i=i+1 %>:
  
 Task_Type_<%= i=i+1 %>:
  id: <%= i %>
- name: Task_Type
+ name: BS_Task_Type
  constant_value: BS_TASK_TYPE_OI
  display_value: Open Issue
  sort_order: 2
@@ -92,7 +92,7 @@ Task_Type_<%= i=i+1 %>:
 
 Task_Priority_<%= i=i+1 %>:
  id: <%= i %>
- name: Task_Priority
+ name: BS_Task_Priority
  constant_value: BS_TASK_PRIORITY_HI 
  display_value: High
  sort_order: 2
@@ -100,7 +100,7 @@ Task_Priority_<%= i=i+1 %>:
  
 Task_Priority_<%= i=i+1 %>:
  id: <%= i %>
- name: Task_Priority
+ name: BS_Task_Priority
  constant_value: BS_TASK_PRIORITY_ME
  display_value: Medium
  sort_order: 1
@@ -108,7 +108,7 @@ Task_Priority_<%= i=i+1 %>:
  
 Task_Priority_<%= i=i+1 %>:
  id: <%= i %>
- name: Task_Priority
+ name: BS_Task_Priority
  constant_value: BS_TASK_PRIORITY_LO
  display_value: Low
  sort_order: 3
@@ -116,7 +116,7 @@ Task_Priority_<%= i=i+1 %>:
  
 Asset_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: Asset_Status
+ name: BS_Asset_Status
  constant_value: BS_ASSET_STATUS_AC 
  display_value: Active
  sort_order: 1
@@ -124,7 +124,7 @@ Asset_Status_<%= i=i+1 %>:
   
 Asset_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: Asset_Status
+ name: BS_Asset_Status
  constant_value: BS_ASSET_STATUS_AR
  display_value: Archived
  sort_order: 2
@@ -132,88 +132,88 @@ Asset_Status_<%= i=i+1 %>:
 
 <%= i=i+1 %>:
  id: <%= i %>
- name: Phone_Type
- constant_value: VA_PHONE_TYPE_HO
+ name: OP_Phone_Type
+ constant_value: OP_PHONE_TYPE_HO
  display_value: Home
  sort_order: 1
  is_active: 1
 
 <%= i=i+1 %>:
  id: <%= i %>
- name: Phone_Type
- constant_value: VA_PHONE_TYPE_MO
+ name: OP_Phone_Type
+ constant_value: OP_PHONE_TYPE_MO
  display_value: Mobile
  sort_order: 2
  is_active: 1  
 
 <%= i=i+1 %>:
  id: <%= i %>
- name: Phone_Type
- constant_value: VA_PHONE_TYPE_WO
+ name: OP_Phone_Type
+ constant_value: OP_PHONE_TYPE_WO
  display_value: Work
  sort_order: 3
  is_active: 1
  
 <%= i=i+1 %>:
  id: <%= i %>
- name: Phone_Type
- constant_value: VA_PHONE_TYPE_OT
+ name: OP_Phone_Type
+ constant_value: OP_PHONE_TYPE_OT
  display_value: Other
  sort_order: 5
  is_active: 1
  
 <%= i=i+1 %>:
  id: <%= i %>
- name: Phone_Type
- constant_value: VA_PHONE_TYPE_SK
+ name: OP_Phone_Type
+ constant_value: OP_PHONE_TYPE_SK
  display_value: Skype
  sort_order: 4
  is_active: 1
 
 <%= i=i+1 %>:
  id: <%= i %>
- name: Website_Type
- constant_value: VA_WEBSITE_TYPE_MY
+ name: OP_Website_Type
+ constant_value: OP_WEBSITE_TYPE_MY
  display_value: My Website
  sort_order: 1
  is_active: 1
 
 <%= i=i+1 %>:
  id: <%= i %>
- name: Website_Type
- constant_value: VA_WEBSITE_TYPE_CO
+ name: OP_Website_Type
+ constant_value: OP_WEBSITE_TYPE_CO
  display_value: My Company
  sort_order: 2
  is_active: 1
 
 <%= i=i+1 %>:
  id: <%= i %>
- name: Website_Type
- constant_value: VA_WEBSITE_TYPE_BL
+ name: OP_Website_Type
+ constant_value: OP_WEBSITE_TYPE_BL
  display_value: My Blog
  sort_order: 3
  is_active: 1
 
 <%= i=i+1 %>:
  id: <%= i %>
- name: Website_Type
- constant_value: VA_WEBSITE_TYPE_RS
+ name: OP_Website_Type
+ constant_value: OP_WEBSITE_TYPE_RS
  display_value: My RSS Feed
  sort_order: 4
  is_active: 1
 
 <%= i=i+1 %>:
  id: <%= i %>
- name: Website_Type
- constant_value: VA_WEBSITE_TYPE_PO
+ name: OP_Website_Type
+ constant_value: OP_WEBSITE_TYPE_PO
  display_value: My Portfolio
  sort_order: 5
  is_active: 1
 
 <%= i=i+1 %>:
  id: <%= i %>
- name: Website_Type
- constant_value: VA_WEBSITE_TYPE_OT
+ name: OP_Website_Type
+ constant_value: OP_WEBSITE_TYPE_OT
  display_value: Other
  sort_order: 6
  is_active: 1 
