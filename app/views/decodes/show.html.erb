@@ -1,0 +1,28 @@
+<p>
+  <b>Name:</b>
+  <%=h @decode.name %>
+</p>
+
+<p>
+  <b>Constant value:</b>
+  <%=h @decode.constant_value %>
+</p>
+
+<p>
+  <b>Display value:</b>
+  <%=h @decode.display_value %>
+</p>
+
+<p>
+  <b>Sort order:</b>
+  <%=h @decode.sort_order %>
+</p>
+
+<p>
+  <b>Is active:</b>
+  <%=h @decode.is_active %>
+</p>
+
+
+<%= link_to 'Edit', edit_decode_path(@decode) %> |
+<%= link_to 'Back', decodes_path %>

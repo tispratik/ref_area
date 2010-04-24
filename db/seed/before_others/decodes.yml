@@ -1,0 +1,131 @@
+<%
+i = 0
+%>
+
+Project_Status_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Project_Status
+ constant_value: BS_PROJ_STATUS_AC 
+ display_value: Active
+ sort_order: 1
+ is_active: 1
+ 
+Project_Status_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Project_Status
+ constant_value: BS_PROJ_STATUS_CL
+ display_value: Closed
+ sort_order: 2
+ is_active: 1
+ 
+Project_Status_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Project_Status
+ constant_value: BS_PROJ_STATUS_SU 
+ display_value: Suspended
+ sort_order: 3
+ is_active: 1
+ 
+Project_Status_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Project_Status
+ constant_value: BS_PROJ_STATUS_IN
+ display_value: Inactive
+ sort_order: 4
+ is_active: 1
+ 
+Project_Status_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Project_Status
+ constant_value: BS_PROJ_STATUS_CA
+ display_value: Canceled
+ sort_order: 5
+ is_active: 1
+ 
+Task_Status_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Task_Status
+ constant_value: BS_TASK_STATUS_OP
+ display_value: Open
+ sort_order: 1
+ is_active: 1
+
+Task_Status_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Task_Status
+ constant_value: BS_TASK_STATUS_AS
+ display_value: Assigned
+ sort_order: 2
+ is_active: 0
+
+Task_Status_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Task_Status
+ constant_value: BS_TASK_STATUS_CO
+ display_value: Closed
+ sort_order: 3
+ is_active: 1
+
+Task_Status_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Task_Status
+ constant_value: BS_TASK_STATUS_CA
+ display_value: Cancelled
+ sort_order: 4
+ is_active: 1
+  
+Task_Type_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Task_Type
+ constant_value: BS_TASK_TYPE_AI
+ display_value: Action Item
+ sort_order: 1
+ is_active: 1
+ 
+Task_Type_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Task_Type
+ constant_value: BS_TASK_TYPE_OI
+ display_value: Open Issue
+ sort_order: 2
+ is_active: 1
+
+Task_Priority_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Task_Priority
+ constant_value: BS_TASK_PRIORITY_HI 
+ display_value: High
+ sort_order: 2
+ is_active: 1
+ 
+Task_Priority_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Task_Priority
+ constant_value: BS_TASK_PRIORITY_ME
+ display_value: Medium
+ sort_order: 1
+ is_active: 1
+ 
+Task_Priority_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Task_Priority
+ constant_value: BS_TASK_PRIORITY_LO
+ display_value: Low
+ sort_order: 3
+ is_active: 1
+ 
+Asset_Status_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Asset_Status
+ constant_value: BS_ASSET_STATUS_AC 
+ display_value: Active
+ sort_order: 1
+ is_active: 1
+  
+Asset_Status_<%= i=i+1 %>:
+ id: <%= i %>
+ name: Asset_Status
+ constant_value: BS_ASSET_STATUS_AR
+ display_value: Archived
+ sort_order: 2
+ is_active: 1 

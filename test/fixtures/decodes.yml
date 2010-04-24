@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: 
+  constant_value: 
+  display_value: 
+  sort_order: 
+  is_active: 1
+
+two:
+  name: 
+  constant_value: 
+  display_value: 
+  sort_order: 
+  is_active: 1

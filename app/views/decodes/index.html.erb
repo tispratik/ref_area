@@ -1,0 +1,28 @@
+<h1>Listing decodes</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Constant value</th>
+    <th>Display value</th>
+    <th>Sort order</th>
+    <th>Is active</th>
+  </tr>
+
+<% @decodes.each do |decode| %>
+  <tr>
+    <td><%=h decode.name %></td>
+    <td><%=h decode.constant_value %></td>
+    <td><%=h decode.display_value %></td>
+    <td><%=h decode.sort_order %></td>
+    <td><%=h decode.is_active %></td>
+    <td><%= link_to 'Show', decode %></td>
+    <td><%= link_to 'Edit', edit_decode_path(decode) %></td>
+    <td><%= link_to 'Destroy', decode, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New decode', new_decode_path %>

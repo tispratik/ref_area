@@ -38,5 +38,14 @@ class CreateTables < ActiveRecord::Migration
     add_index :cities, :geoname_id
     add_index :cities, :country_id
     add_index :cities, :region_id
+    
+    create_table :decodes do |t|
+      t.string :name
+      t.string :constant_value
+      t.string :display_value
+      t.integer :sort_order
+      t.integer :is_active
+    end
+    
   end
 end
