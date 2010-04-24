@@ -129,3 +129,91 @@ Asset_Status_<%= i=i+1 %>:
  display_value: Archived
  sort_order: 2
  is_active: 1 
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: Phone_Type
+ constant_value: VA_PHONE_TYPE_HO
+ display_value: Home
+ sort_order: 1
+ is_active: 1
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: Phone_Type
+ constant_value: VA_PHONE_TYPE_MO
+ display_value: Mobile
+ sort_order: 2
+ is_active: 1  
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: Phone_Type
+ constant_value: VA_PHONE_TYPE_WO
+ display_value: Work
+ sort_order: 3
+ is_active: 1
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: Phone_Type
+ constant_value: VA_PHONE_TYPE_OT
+ display_value: Other
+ sort_order: 5
+ is_active: 1
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: Phone_Type
+ constant_value: VA_PHONE_TYPE_SK
+ display_value: Skype
+ sort_order: 4
+ is_active: 1
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: Website_Type
+ constant_value: VA_WEBSITE_TYPE_MY
+ display_value: My Website
+ sort_order: 1
+ is_active: 1
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: Website_Type
+ constant_value: VA_WEBSITE_TYPE_CO
+ display_value: My Company
+ sort_order: 2
+ is_active: 1
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: Website_Type
+ constant_value: VA_WEBSITE_TYPE_BL
+ display_value: My Blog
+ sort_order: 3
+ is_active: 1
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: Website_Type
+ constant_value: VA_WEBSITE_TYPE_RS
+ display_value: My RSS Feed
+ sort_order: 4
+ is_active: 1
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: Website_Type
+ constant_value: VA_WEBSITE_TYPE_PO
+ display_value: My Portfolio
+ sort_order: 5
+ is_active: 1
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: Website_Type
+ constant_value: VA_WEBSITE_TYPE_OT
+ display_value: Other
+ sort_order: 6
+ is_active: 1 
