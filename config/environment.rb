@@ -9,7 +9,7 @@ Rails::Initializer.run do |config|
   config.active_record.timestamped_migrations = false
   
   config.time_zone = 'UTC'
-  
+  config.gem 'fastercsv'
 end
 
 

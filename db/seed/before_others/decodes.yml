@@ -4,7 +4,7 @@ i = 0
 
 Project_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: BS_Project_Status
+ name: BS_Proj_Status
  constant_value: BS_PROJ_STATUS_AC 
  display_value: Active
  sort_order: 1
@@ -12,7 +12,7 @@ Project_Status_<%= i=i+1 %>:
  
 Project_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: BS_Project_Status
+ name: BS_Proj_Status
  constant_value: BS_PROJ_STATUS_CL
  display_value: Closed
  sort_order: 2
@@ -20,7 +20,7 @@ Project_Status_<%= i=i+1 %>:
  
 Project_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: BS_Project_Status
+ name: BS_Proj_Status
  constant_value: BS_PROJ_STATUS_SU 
  display_value: Suspended
  sort_order: 3
@@ -28,7 +28,7 @@ Project_Status_<%= i=i+1 %>:
  
 Project_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: BS_Project_Status
+ name: BS_Proj_Status
  constant_value: BS_PROJ_STATUS_IN
  display_value: Inactive
  sort_order: 4
@@ -36,7 +36,7 @@ Project_Status_<%= i=i+1 %>:
  
 Project_Status_<%= i=i+1 %>:
  id: <%= i %>
- name: BS_Project_Status
+ name: BS_Proj_Status
  constant_value: BS_PROJ_STATUS_CA
  display_value: Canceled
  sort_order: 5
@@ -216,4 +216,20 @@ Asset_Status_<%= i=i+1 %>:
  constant_value: OP_WEBSITE_TYPE_OT
  display_value: Other
  sort_order: 6
+ is_active: 1 
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: MC_Org_Status
+ constant_value: MC_ORG_STATUS_AC
+ display_value: Active
+ sort_order: 1
+ is_active: 1  
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: MC_Org_Status
+ constant_value: MC_ORG_STATUS_DI
+ display_value: Disabled
+ sort_order: 1
  is_active: 1 

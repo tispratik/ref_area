@@ -19,7 +19,7 @@ namespace :db do
   end
   
   desc "Seed the database with before_others/ fixtures."
-  task :before => [:environment] do 
+  task :decodes => [:environment] do 
     load_fixtures "seed/before_others", :always
   end
   

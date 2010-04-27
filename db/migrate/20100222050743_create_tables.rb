@@ -47,5 +47,16 @@ class CreateTables < ActiveRecord::Migration
       t.integer :is_active
     end
     
+    create_table :industries do |t|
+      t.string :name
+    end
+    
+    create_table :specific_industries do |t|
+      t.string :name
+      t.references :industry
+    end
+    
+    add_index :specific_industries, :industry_id
+    
   end
 end

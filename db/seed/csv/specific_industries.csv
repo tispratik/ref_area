@@ -1,0 +1,213 @@
+industry,name
+Legal,Law Practice
+Legal,Legal Services
+Legal,Legislative Office
+Legal,Judiciary
+Legal,Law Enforcement
+Government,Defense And Space
+Government,Aviation And Aerospace
+Government,Research
+Government,Military
+Government,Legislative Office
+Government,Judiciary
+Government,International Affairs
+Government,Government Administration
+Government,Executive Office
+Government,Law Enforcement
+Government,Public Safety
+Government,Public Policy
+Government,Political Organization
+Government,Nanotechnology
+Government,Think Tanks
+Government,Mechanical Or Industrial Engineering
+Government,International Trade And Development
+Government,Government Relations
+Consumer Goods,Cosmetics
+Consumer Goods,Apparel And Fashion
+Consumer Goods,Sporting Goods
+Consumer Goods,Tobacco
+Consumer Goods,Supermarkets
+Consumer Goods,Food Production
+Consumer Goods,Consumer Electronics
+Consumer Goods,Consumer Goods
+Consumer Goods,Furniture
+Consumer Goods,Retail
+Consumer Goods,Electrical And Electronic Manufacturing
+Consumer Goods,Wholesale
+Consumer Goods,Wine And Spirits
+Consumer Goods,Luxury Goods And Jewelry
+Consumer Goods,Packaging And Containers
+Arts,Design
+Arts,Arts And Crafts
+Arts,Music
+Arts,Photography
+Arts,Graphic Design
+Organizations And Non-Profit,Environmental Services
+Organizations And Non-Profit,Individual And Family Services
+Organizations And Non-Profit,Religious Institutions
+Organizations And Non-Profit,Civic And Social Organization
+Organizations And Non-Profit,Consumer Services
+Organizations And Non-Profit,Non-Profit Organization Management
+Organizations And Non-Profit,Fundraising
+Organizations And Non-Profit,Program Development
+Organizations And Non-Profit,Political Organization
+Organizations And Non-Profit,Alternative Dispute Resolution
+Organizations And Non-Profit,Security And Investigations
+Organizations And Non-Profit,Think Tanks
+Organizations And Non-Profit,Philanthropy
+Organizations And Non-Profit,E-Learning
+Organizations And Non-Profit,Renewables And Environment
+"Recreation, Travel And Entertainment",Sporting Goods
+"Recreation, Travel And Entertainment",Entertainment
+"Recreation, Travel And Entertainment",Gambling And Casinos
+"Recreation, Travel And Entertainment",Leisure And Travel
+"Recreation, Travel And Entertainment",Hospitality
+"Recreation, Travel And Entertainment",Restaurants
+"Recreation, Travel And Entertainment",Sports
+"Recreation, Travel And Entertainment",Food And Beverages
+"Recreation, Travel And Entertainment",Motion Pictures And Film
+"Recreation, Travel And Entertainment",Broadcast Media
+"Recreation, Travel And Entertainment",Museums And Institutions
+"Recreation, Travel And Entertainment",Fine Art
+"Recreation, Travel And Entertainment",Performing Arts
+"Recreation, Travel And Entertainment",Recreational Facilities And Services
+"Recreation, Travel And Entertainment",Newspapers
+"Recreation, Travel And Entertainment",Publishing
+"Recreation, Travel And Entertainment",Printing
+"Recreation, Travel And Entertainment",Libraries
+"Recreation, Travel And Entertainment",Writing And Editing
+"Recreation, Travel And Entertainment",Computer Games
+"Recreation, Travel And Entertainment",Music
+"Recreation, Travel And Entertainment","Health, Wellness And Fitness"
+"Recreation, Travel And Entertainment",Media Production
+"Recreation, Travel And Entertainment",Wine And Spirits
+Corporate Services,Management Consulting
+Corporate Services,Accounting
+Corporate Services,Marketing And Advertising
+Corporate Services,Market Research
+Corporate Services,Public Relations
+Corporate Services,Program Development
+Corporate Services,Staffing And Recruiting
+Corporate Services,Professional Training
+Corporate Services,Translation And Localization
+Corporate Services,Events Services
+Corporate Services,Logistics And Supply Chain
+Corporate Services,Outsourcing/Offshoring
+Corporate Services,Commercial Real Estate
+Corporate Services,Import And Export
+Corporate Services,Human Resources
+Corporate Services,Business Supplies And Equipment
+Agriculture,Railroad Manufacture
+Agriculture,Farming
+Agriculture,Ranching
+Agriculture,Dairy
+Agriculture,Fishery
+Transportation,Leisure And Travel
+Transportation,Hospitality
+Transportation,Package/Freight Delivery
+Transportation,Transportation/Trucking/Railroad
+Transportation,Warehousing
+Transportation,Airlines/Aviation
+Transportation,Maritime
+Transportation,Translation And Localization
+Transportation,Import And Export
+Transportation,International Trade And Development
+Manufacturing,Food Production
+Manufacturing,Consumer Electronics
+Manufacturing,Consumer Goods
+Manufacturing,Furniture
+Manufacturing,Retail
+Manufacturing,Aviation And Aerospace
+Manufacturing,Automotive
+Manufacturing,Chemicals
+Manufacturing,Machinery
+Manufacturing,Mining And Metals
+Manufacturing,Oil And Energy
+Manufacturing,Shipbuilding
+Manufacturing,Utilities
+Manufacturing,Textiles
+Manufacturing,Paper And Forest Products
+Manufacturing,Electrical And Electronic Manufacturing
+Manufacturing,Plastics
+Manufacturing,Mechanical Or Industrial Engineering
+Manufacturing,Business Supplies And Equipment
+Manufacturing,Renewables And Environment
+Manufacturing,"Glass, Ceramics And Concrete"
+Manufacturing,Packaging And Containers
+Manufacturing,Industrial Automation
+Construction,Real Estate
+Construction,Construction
+Construction,Building Materials
+Construction,Architecture And Planning
+Construction,Civil Engineering
+Construction,Commercial Real Estate
+Construction,"Glass, Ceramics And Concrete"
+Construction,Industrial Automation
+Service Industry,Restaurants
+Service Industry,Food And Beverages
+Service Industry,Recreational Facilities And Services
+Service Industry,Package/Freight Delivery
+Service Industry,Individual And Family Services
+Service Industry,Events Services
+Service Industry,Alternative Dispute Resolution
+Service Industry,Security And Investigations
+Service Industry,Facilities Services
+High Tech,Defense And Space
+High Tech,Computer Hardware
+High Tech,Computer Software
+High Tech,Computer Networking
+High Tech,Internet
+High Tech,Semiconductors
+High Tech,Telecommunications
+High Tech,Biotechnology
+High Tech,Pharmaceuticals
+High Tech,Airlines/Aviation
+High Tech,Information Technology And Services
+High Tech,Venture Capital
+High Tech,Nanotechnology
+High Tech,Computer And Network Security
+High Tech,Wireless
+Education,Primary/Secondary
+Education,Higher Education
+Education,Education Management
+Education,Research
+Education,E-Learning
+Media,Entertainment
+Media,Motion Pictures And Film
+Media,Broadcast Media
+Media,Museums And Institutions
+Media,Fine Art
+Media,Performing Arts
+Media,Marketing And Advertising
+Media,Newspapers
+Media,Publishing
+Media,Printing
+Media,Information Services
+Media,Libraries
+Media,Design
+Media,Writing And Editing
+Media,Computer Games
+Media,Arts And Crafts
+Media,Online Publishing
+Media,Media Production
+Media,Animation
+Media,Photography
+Media,Graphic Design
+Medical And Health Care,Biotechnology
+Medical And Health Care,Medical Practice
+Medical And Health Care,Hospital And Health Care
+Medical And Health Care,Pharmaceuticals
+Medical And Health Care,Veterinary
+Medical And Health Care,Medical Device
+Medical And Health Care,"Health, Wellness And Fitness"
+Medical And Health Care,Alternative Medicine
+Medical And Health Care,Mental Health Care
+Finance,Banking
+Finance,Insurance
+Finance,Financial Services
+Finance,Real Estate
+Finance,Investment Banking/Venture
+Finance,Investment Management
+Finance,Accounting
+Finance,Venture Capital
+Finance,Capital Markets
