@@ -61,7 +61,7 @@ Task_Status_<%= i=i+1 %>:
 Task_Status_<%= i=i+1 %>:
  id: <%= i %>
  name: BS_Task_Status
- constant_value: BS_TASK_STATUS_CO
+ constant_value: BS_TASK_STATUS_CL
  display_value: Closed
  sort_order: 3
  is_active: 1
@@ -72,7 +72,7 @@ Task_Status_<%= i=i+1 %>:
  constant_value: BS_TASK_STATUS_CA
  display_value: Cancelled
  sort_order: 4
- is_active: 1
+ is_active: 0
   
 Task_Type_<%= i=i+1 %>:
  id: <%= i %>
