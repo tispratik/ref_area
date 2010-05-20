@@ -4,6 +4,10 @@ class Country < ActiveRecord::Base
   
   default_scope :order => :name
   
+  def before_create
+    self.id = ison
+  end
+  
   def self.get_flag(iso2)
     iso2 = iso2.downcase
     "flags/small/" + iso2 + ".gif"

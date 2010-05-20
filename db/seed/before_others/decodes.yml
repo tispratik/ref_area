@@ -18,30 +18,6 @@ Project_Status_<%= i=i+1 %>:
  sort_order: 2
  is_active: 1
  
-Project_Status_<%= i=i+1 %>:
- id: <%= i %>
- name: BS_Proj_Status
- constant_value: BS_PROJ_STATUS_SU 
- display_value: Suspended
- sort_order: 3
- is_active: 1
- 
-Project_Status_<%= i=i+1 %>:
- id: <%= i %>
- name: BS_Proj_Status
- constant_value: BS_PROJ_STATUS_IN
- display_value: Inactive
- sort_order: 4
- is_active: 1
- 
-Project_Status_<%= i=i+1 %>:
- id: <%= i %>
- name: BS_Proj_Status
- constant_value: BS_PROJ_STATUS_CA
- display_value: Canceled
- sort_order: 5
- is_active: 1
- 
 Task_Status_<%= i=i+1 %>:
  id: <%= i %>
  name: BS_Task_Status
@@ -49,7 +25,7 @@ Task_Status_<%= i=i+1 %>:
  display_value: Open
  sort_order: 1
  is_active: 1
-
+ 
 Task_Status_<%= i=i+1 %>:
  id: <%= i %>
  name: BS_Task_Status
