@@ -277,14 +277,6 @@ Asset_Status_<%= i=i+1 %>:
 <%= i=i+1 %>:
  id: <%= i %>
  name: BS_Consp
- constant_value: BS_CONSP_FL
- display_value: Files
- sort_order: 1
- is_active: 1 
-
-<%= i=i+1 %>:
- id: <%= i %>
- name: BS_Consp
  constant_value: BS_CONSP_EV
  display_value: Events
  sort_order: 1
