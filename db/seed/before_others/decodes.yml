@@ -209,3 +209,83 @@ Asset_Status_<%= i=i+1 %>:
  display_value: Disabled
  sort_order: 1
  is_active: 1 
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: BS_Consp
+ constant_value: BS_CONSP_US
+ display_value: Users
+ sort_order: 1
+ is_active: 1 
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: BS_Consp
+ constant_value: BS_CONSP_DS
+ display_value: Disk Space
+ sort_order: 1
+ is_active: 1 
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: BS_Consp
+ constant_value: BS_CONSP_OT
+ display_value: Open Tasks
+ sort_order: 1
+ is_active: 1 
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: BS_Consp
+ constant_value: BS_CONSP_CT
+ display_value: Closed Tasks
+ sort_order: 1
+ is_active: 1 
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: BS_Consp
+ constant_value: BS_CONSP_UT
+ display_value: Updated Tasks
+ sort_order: 1
+ is_active: 1 
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: BS_Consp
+ constant_value: BS_CONSP_CO
+ display_value: CoEdits
+ sort_order: 1
+ is_active: 1 
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: BS_Consp
+ constant_value: BS_CONSP_SN
+ display_value: Snippets
+ sort_order: 1
+ is_active: 1 
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: BS_Consp
+ constant_value: BS_CONSP_FL
+ display_value: Files
+ sort_order: 1
+ is_active: 1 
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: BS_Consp
+ constant_value: BS_CONSP_FL
+ display_value: Files
+ sort_order: 1
+ is_active: 1 
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ name: BS_Consp
+ constant_value: BS_CONSP_EV
+ display_value: Events
+ sort_order: 1
+ is_active: 1
