@@ -3,3 +3,9 @@ Stores all the Reference Data.
 1. Countries
 2. Regions
 3. Cities
+4. Industry
+5. Specific Industry
+
+Installation:
+1. rake db:refresh
+2. rake db:decodes
