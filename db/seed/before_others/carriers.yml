@@ -1,0 +1,528 @@
+<%
+i = 0
+%>
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: alltel
+ display_text: Alltel
+ country_id: 840
+ email: @message.alltel.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: ameritech
+ display_text: Ameritech
+ country_id: 840
+ email: @paging.acswireless.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: at&t
+ display_text: AT&T
+ country_id: 840
+ email: @txt.att.net
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: bell-atlantic
+ display_text: Bell Atlantic
+ country_id: 840
+ email: @message.bam.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: bellsouthmobility
+ display_text: Bellsouth Mobility
+ country_id: 840
+ email: @blsdcs.net
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: blueskyfrog
+ display_text: BlueSkyFrog
+ country_id: 840
+ email: @blueskyfrog.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: boost
+ display_text: Boost Mobile
+ country_id: 840
+ email: @myboostmobile.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: cellularsouth
+ display_text: Cellular South
+ country_id: 840
+ email: @csouth1.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: comcast
+ display_text: Comcast PCS
+ country_id: 840
+ email: @comcastpcs.textmsg.com
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: cricket
+ display_text: Cricket
+ country_id: 840
+ email: @sms.mycricket.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: kajeet
+ display_text: kajeet
+ country_id: 840
+ email: @mobile.kajeet.net
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: metropcs
+ display_text: Metro PCS
+ country_id: 840
+ email: @mymetropcs.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: nextel
+ display_text: Nextel
+ country_id: 840
+ email: @messaging.nextel.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: powertel
+ display_text: Powertel
+ country_id: 840
+ email: @ptel.net
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: pscwireless
+ display_text: PSC Wireless
+ country_id: 840
+ email: @sms.pscel.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: qwest
+ display_text: Qwest
+ country_id: 840
+ email: @qwestmp.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: southernlink
+ display_text: Southern Link
+ country_id: 840
+ email: @page.southernlinc.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: sprint
+ display_text: Sprint PCS
+ country_id: 840
+ email: @messaging.sprintpcs.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: suncom
+ display_text: Suncom
+ country_id: 840
+ email: @tms.suncom.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: t-mobile
+ display_text: T-Mobile
+ country_id: 840
+ email: @tmomail.net
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: tracfone
+ display_text: Tracfone
+ country_id: 840
+ email: @mmst5.tracfone.com
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: telus-mobility
+ display_text: Telus Mobility
+ country_id: 840
+ email: @msg.telus.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: virgin
+ display_text: Virgin Mobile
+ country_id: 840
+ email: @vmobl.net
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: verizon
+ display_text: Verizon Wireless
+ country_id: 840
+ email: @vtext.com
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: aliant-canada
+ display_text: Aliant
+ country_id: 124
+ email: @chat.wirefree.ca
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: beeline-ua
+ display_text: Beeline
+ country_id: 804
+ email: @sms.beeline.ua
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: bellmobility-canada
+ display_text: Bell Mobility
+ country_id: 124
+ email: @txt.bell.ca
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: bpl-mobile
+ display_text: BPL Mobile
+ country_id: 356
+ email: @bplmobile.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: claro-brazil
+ display_text: Claro
+ country_id: 76
+ email: @clarotorpedo.com.br
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: claro-nicaragua
+ display_text: Claro
+ country_id: 558
+ email: @ideasclaro-ca.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: du-arab-emirates
+ display_text: Du
+ country_id: 784
+ email: @email2sms.ae
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: e-plus-germany
+ display_text: E-Plus
+ country_id: 276
+ email: @smsmail.eplus.de
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: etisalat-arab-emirates
+ display_text: Etisalat
+ country_id: 784
+ email: @email2sms.ae
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: fido-canada
+ display_text: Fido
+ country_id: 124
+ email: @fido.ca
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: manitobatelecom-canada
+ display_text: Manitoba Telecom
+ country_id: 124
+ email: @text.mtsmobility.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: mobinil-egypt
+ display_text: Mobinil
+ country_id: 818
+ email: @mobinil.net
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: mobistar-belgium
+ display_text: Mobistar
+ country_id: 56
+ email: @mobistar.be
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: mobitel
+ display_text: Mobitel
+ country_id: 144
+ email: @sms.mobitel.lk
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: movistar-spain
+ display_text: Movistar
+ country_id: 724
+ email: @correo.movistar.net
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: northerntel-canada
+ display_text: NorthernTel
+ country_id: 124
+ email: @txt.northerntelmobility.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: o2-germany
+ display_text: O2
+ country_id: 276
+ email: @o2online.de
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: o2-uk
+ display_text: O2
+ country_id: 826
+ email: @mmail.co.uk
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: orange-mumbai
+ display_text: Orange
+ country_id: 356
+ email: @orangemail.co.in
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: orange-netherlands
+ display_text: Orange
+ country_id: 528
+ email: @sms.orange.nl
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: orange-uk
+ display_text: Orange
+ country_id: 826
+ email: @orange.net
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: rogers-wireless
+ display_text: Rogers Wireless
+ country_id: 124
+ email: @pcs.rogers.ca
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: sasktel-canada
+ display_text: SaskTel
+ country_id: 124
+ email: @sms.sasktel.ca
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: sfr-france
+ display_text: SFR
+ country_id: 250
+ email: @sfr.fr
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: t-mobile-austria
+ display_text: T-Mobile
+ country_id: 40
+ email: @sms.t-mobile.at
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: t-mobile-germany
+ display_text: T-Mobile
+ country_id: 276
+ email: @t-d1-sms.de
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: t-mobile-netherlands
+ display_text: T-Mobile
+ country_id: 528
+ email: @gin.nl
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: t-mobile-uk
+ display_text: T-Mobile
+ country_id: 826
+ email: @t-mobile.uk.net
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: telebec-canada
+ display_text: Telebec
+ country_id: 124
+ email: @txt.telebecmobilite.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: telefonica-spain
+ display_text: Telefonica
+ country_id: 724
+ email: @movistar.net
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: telus-canada
+ display_text: Telus
+ country_id: 124
+ email: @msg.telus.com
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: virgin-canada
+ display_text: Virgin
+ country_id: 124
+ email: @vmobile.ca
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-germany
+ display_text: Vodafone
+ country_id: 276
+ email: @vodafone-sms.de
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-egypt
+ display_text: Vodafone
+ country_id: 818
+ email: @vodafone.com.eg
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-uk
+ display_text: Vodafone
+ country_id: 826
+ email: @sms.vodafone.net
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-italy
+ display_text: Vodafone
+ country_id: 380
+ email: @sms.vodafone.it
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-chuugoku
+ display_text: Vodafone (Japan - Chuugoku)
+ country_id: 392
+ email: @n.vodafone.ne.jp
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-hokkaido
+ display_text: Vodafone (Japan - Hokkaido)
+ country_id: 392
+ email: @d.vodafone.ne.jp
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-hokuriko
+ display_text: Vodafone (Japan - Hokuriko)
+ country_id: 392
+ email: @r.vodafone.ne.jp
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-kansai
+ display_text: Vodafone (Japan - Kansai)
+ country_id: 392
+ email: @k.vodafone.ne.jp
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-osaka
+ display_text: Vodafone (Japan - Osaka)
+ country_id: 392
+ email: @k.vodafone.ne.jp
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-kanto
+ display_text: Vodafone (Japan - Kanto)
+ country_id: 392
+ email: @k.vodafone.ne.jp
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-koushin
+ display_text: Vodafone (Japan - Koushin)
+ country_id: 392
+ email: @k.vodafone.ne.jp
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-tokyo
+ display_text: Vodafone (Japan - Tokyo)
+ country_id: 392
+ email: @k.vodafone.ne.jp 
+  
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-kyuushu
+ display_text: Vodafone (Japan - Kyuushu)
+ country_id: 392
+ email: @q.vodafone.ne.jp
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-okinawa
+ display_text: Vodafone (Japan - Okinawa)
+ country_id: 392
+ email: @q.vodafone.ne.jp
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-shikoku
+ display_text: Vodafone (Japan - Shikoku)
+ country_id: 392
+ email: @s.vodafone.ne.jp
+
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-touhoku
+ display_text: Vodafone (Japan - Touhoku)
+ country_id: 392
+ email: @h.vodafone.ne.jp
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-niigata
+ display_text: Vodafone (Japan - Niigata)
+ country_id: 392
+ email: @h.vodafone.ne.jp
+ 
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-jp-toukai
+ display_text: Vodafone (Japan - Toukai)
+ country_id: 392
+ email: @h.vodafone.ne.jp
+    
+<%= i=i+1 %>:
+ id: <%= i %>
+ code: vodafone-spain
+ display_text: Vodafone 
+ country_id: 724
+ email: @vodafone.es

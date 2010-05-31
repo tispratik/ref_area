@@ -58,5 +58,12 @@ class CreateTables < ActiveRecord::Migration
     
     add_index :specific_industries, :industry_id
     
+    create_table :carriers do |t|
+      t.string :code
+      t.string :display_text
+      t.references :country
+      t.string :email
+    end
+    
   end
 end

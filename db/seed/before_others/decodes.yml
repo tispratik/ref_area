@@ -120,7 +120,7 @@ Asset_Status_<%= i=i+1 %>:
  constant_value: OP_PHONE_TYPE_MO
  display_value: Mobile
  sort_order: 2
- is_active: 1  
+ is_active: 0
 
 <%= i=i+1 %>:
  id: <%= i %>
