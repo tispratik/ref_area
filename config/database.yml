@@ -7,3 +7,13 @@ development:
   username: root
   password: pratik
   host: 127.0.0.1
+  
+production:
+  adapter: mysql
+  encoding: utf8
+  reconnect: false
+  database: ref_area_production
+  pool: 5
+  username: root
+  password: pratik
+  host: 127.0.0.1  
